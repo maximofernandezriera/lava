@@ -5,7 +5,7 @@
 - **tablero**: matriz bidimensional de booleanos que representa el tablero
 - **inicio**: coordenada de inicio
 - **fin**: coordenada de destino
-- Pueden ser una **clase Coordenada***.
+- Pueden ser una **clase Coordenada**.
 
 ### Salida (return):
 
