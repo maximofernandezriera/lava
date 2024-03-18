@@ -15,7 +15,7 @@
 
 1. **Verificaciones iniciales:**
    - Si el tablero está vacío o las coordenadas no son válidas, retornamos -1.
-2. **Inicializar:**
+2. **Inicialización:**
    - Crear una matriz de visitados del mismo tamaño que el tablero y marcar todas las casillas como no visitadas.
    - Crear una estructura de datos (array o ArrayList) cuyo comportamiento sea similar a una cola. La ponemos a 0.
 3. Añadimos la coordenada de inicio a la cola y lo marcamos como visitado.
