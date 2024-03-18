@@ -25,11 +25,11 @@
      - Recorrer la cola desde el principio hasta el tamaño actual:
        - Sacar el primer elemento de la cola.
        - Si la coordenada actual es la coordenada de destino, retornar el número de pasos.
+       * __Definir qué movimiento hacia arriba en el tablero__
+       * __Definir un movimiento hacia abajo en el tablero__
+       * __Definir un movimiento hacia la izquierda en el tablero__
+       * __Definir un movimiento hacia la derecha en el tablero__
        - Explorar las cuatro direcciones adyacentes:
-       . Definir movimiento hacia arriba en el tablero
-       . Definir un movimiento hacia abajo en el tablero
-       . Definir un movimiento hacia la izquierda en el tablero
-       . Definir un movimiento hacia la derecha en el tablero
          - Si la nueva posición es válida, no está visitada y no está bloqueada en el tablero:
            - Marcar la nueva posición como visitada.
            - Añadir la nueva coordenada a la cola.
